@@ -1,8 +1,8 @@
 {
-    'name': 'Biblioteca Marcos',
+    'name': 'Biblioteca Evian',
     'version': '1.0',
     'summary': 'Gestión básica de libros para alumnos',
-    'author': 'Marcos Mateos',
+    'author': 'Evian Contreras',
     'depends': ['base'],
     'data': [
         'security/ir.model.access.csv',
