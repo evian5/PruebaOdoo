@@ -179,8 +179,7 @@ Instálalo.
 
 
 
-🎉 ¡Listo! Tu Odoo está en línea y tu módulo se carga correctamente.
+El odoo ya esta creado 
+Autor:Evian contreras Berrios 
 
-Autor: Marcos Mateos Iglesias
-Ayuda de ChatGPT para el decoramiento de emojis del Readme, TODAS LAS IDEAS FUERON PROPIAS DEL AUTOR. Gracias por leer :D .
 
